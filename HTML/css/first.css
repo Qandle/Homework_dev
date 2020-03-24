@@ -1,0 +1,159 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #F9F9F9;
+    font-family: 'Roboto', sans-serif;
+    color: #333333;
+}
+
+.nav ul{
+    list-style: none;
+    background-color: #FFF;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.nav li{
+  font-size: 1.2em;
+  font-weight: 200;
+  line-height: 10px;
+  display: inline-block;
+  margin-right: 7%;
+  margin-top: 2.5%;
+  margin-bottom: 2.5%;
+}
+
+.nav a {
+  text-decoration: none;
+  color: #000;
+  display: block;
+  padding-left: 15px;
+
+}
+
+.nav a:hover {
+  color: #696969;
+}
+
+.nav {
+  box-shadow: 0 0 5px #CECED2;
+  position: fixed;
+  width: 100%;
+  margin-top: 0%;
+}
+.MacBook{
+  padding-top: 5%;
+}
+.inMacBook {
+  margin-top: 3%;
+  text-align: center;
+
+}
+
+.inMacBook .m1{
+  color: #FF9500;
+  font-weight: 200;
+  font-size: 1.2em;
+}
+
+.inMacBook .m2{
+  font-weight: 500;
+  font-size: 4em;
+}
+
+.inMacBook .m3{
+  font-size: 1.5em;
+  font-weight: 200;
+}
+
+.inMacBook .LM{
+  text-decoration: none;
+  color: #007AFF;
+  font-size: 1.2em;
+}
+
+
+
+.Gbox1 {
+  background-image: url(../Surface.png);
+  background-repeat: no-repeat;
+  background-size: 120%;
+  background-position: 30% 5%;
+  height: 30em;
+  width: 43%;
+  float: left;
+  margin: 2%;
+  text-align: center;
+  padding: 1%;
+
+}
+
+.Gbox2 {
+  background-color: #CECED2;
+  background-image: url(../Swift.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 100%;
+  height: 30em;
+  width: 43%;
+  margin: 2%;
+  float: right;
+  text-align: center;
+  padding: 1%;
+
+}
+
+.Ti{
+  font-weight: 500;
+  font-size: 4em;
+  color: #333333;
+
+}
+
+.Sub{
+  font-weight: 200;
+  font-size: 1.5em;
+  color: #333333;
+}
+
+.Gbox3 {
+  background-color: #CECED2;
+  background-image: url(../XPS.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+  height: 30em;
+  width: 43%;
+  float: left;
+  margin: 2%;
+  text-align: center;
+  padding: 1%;
+
+}
+
+.Gbox4 {
+  background-color: #CECED2;
+  background-image: url(../ZenBook.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 100%;
+  height: 30em;
+  width: 43%;
+  margin: 2%;
+  float: right;
+  text-align: center;
+  padding: 1%;
+
+}
+
+.btm_page{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 3%;
+  text-align: left;
+  font-size: 0.8em;
+  color: #757575;
+  clear: both;
+  padding-bottom: 2%;
+}
